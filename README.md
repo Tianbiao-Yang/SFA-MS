@@ -1,4 +1,4 @@
-# SFAMS
+# SFA-MS
 ## REASON
 ### The present work developed a new alignment algorithm called SFA-MS (Subwindow Factor Analysis based on Mass Spectral information), applying to nontargeted metabolic profiling analysis.By comparing with several alignment methods, it is demonstrated that the method has the capacity to solve the overlapping phenomenon and preserve the shape of peaks and performs well with nonlinear retention time shifts.
 ## STEP
